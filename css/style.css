@@ -1,0 +1,32 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+.bl1 {
+    display: flex;
+    border-width: 2px; 
+    border-style: solid;
+    background-color: rgb(255, 8, 0);
+}    
+.bl2 {
+    background-color: rgb(17, 16, 16);
+    color: rgb(184, 11, 11);
+    margin: 1px;
+    width: 500px;
+}
+#im1{
+    width: 200px;
+    height: 200px;
+    float: middle;  
+}
+.bl3{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid; 
+    background-color: red;
+}
+h2{
+ color: purple;   
+ border-color: black;
+ border-style: solid;
+ border-radius: 600px;
+}
